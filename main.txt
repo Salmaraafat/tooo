@@ -5,6 +5,6 @@ int main(){
 
 
 cout<<"this is git";
-cout<<"git is fun";
+cout<<"git is fun edited by master";
 
 }
